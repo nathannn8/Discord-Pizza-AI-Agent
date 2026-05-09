@@ -2,7 +2,7 @@
 
 An agentic AI bot for Discord that can search the live web and take pizza orders end-to-end, writing them straight to a Google Sheet for the kitchen to see.
 
-Built entirely from scratch in Python over a single day as a hands-on introduction to AI automation, tool-calling agents, and API integration.
+Built entirely from scratch in Python over a single day as a way to build AI agent powered systems for real world use cases such as ordering pizzas without any human in the loop and via text.
 
 ---
 
